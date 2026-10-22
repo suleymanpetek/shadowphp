@@ -1,0 +1,22 @@
+# reports and scan output
+*.csv
+*.json
+report.*
+*.gz
+
+# discovery working files
+subs.txt
+brand*.txt
+httpx.json
+shodan*.json
+*.output
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os / editor
+.DS_Store
+*.swp
